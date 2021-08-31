@@ -1,5 +1,6 @@
 # Jukebox Jam
 Created during UWF Software Engineering 2
+
 Developed by: Dylan Morris, Lance Blum, Serghei Berezchov
 ### This project requires the user to install Node.js and Electron as of now.
 #### Node.js can be installed via the Node.js website
